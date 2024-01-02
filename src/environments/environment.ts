@@ -10,7 +10,8 @@ export const environment = {
   confTemplateLink: '#',
   confDate: '12th - 13th October 2024',
   confVenue: 'Perdana Kuala Lumpur City Centre',
-  confTel: '+60355435312',
+  //confTel: '+60355435312',
+  confTel: '+60132244790',
   confFB: 'https://www.facebook.com/uicms/',
 };
 
