@@ -1,0 +1,13 @@
+@media (max-width: 576px) {
+  .small-screen-img {
+    width: 50%; /* Adjust this value as needed */
+    margin: 0 auto; /* This centers the image */
+  }
+}
+
+@media (max-width: 576px) {
+  .smaller-card {
+    max-width: 200px; /* Adjust this value as needed */
+    margin: 0 auto; /* Centers the card */
+  }
+}
