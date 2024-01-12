@@ -1,7 +1,7 @@
 export const environment = {
   production: true,
   confTitle: 'UiTM International Conference on Mathematical Sciences 2024',
-  confAbbrev: 'UICMS2024',
+  confAbbrev: 'UICMS 2024',
   confConj1: 'The 3rd International Conference on Mathematical Sciences (ICMS2024)',
   confConj2: 'The 3rd Computational Models and Technologies (CMT2024)',
   confUrl: 'http://uicms2024.github.io',
