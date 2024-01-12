@@ -6,6 +6,7 @@ import { CommitteeComponent } from './committee/committee.component';
 import { DatesComponent } from './dates/dates.component';
 import { FeesComponent } from './fees/fees.component';
 import { GuidelinesComponent } from './guidelines/guidelines.component';
+import { RegistrationComponent } from './registration/registration.component';
 
 export const routes: Routes = [
     { path: 'home', component: HomeComponent},
@@ -15,6 +16,7 @@ export const routes: Routes = [
     { path: 'about', component: AboutComponent },
     { path: 'fees', component: FeesComponent },
     { path: 'guideline', component: GuidelinesComponent},
+    { path: 'registration', component: RegistrationComponent},
     { path: '**', redirectTo: 'home', pathMatch: 'full'},
 
 ];
