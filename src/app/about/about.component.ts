@@ -12,4 +12,5 @@ export class AboutComponent {
   confEmail = environment.confEmail;
   confTel = environment.confTel;
   confTitle = environment.confTitle;
+  confAbbrev = environment.confAbbrev;
 }
