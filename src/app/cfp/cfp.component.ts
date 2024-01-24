@@ -16,7 +16,7 @@ export class CfpComponent {
   confAbbrev = environment.confAbbrev;
   confConj1 = environment.confConj1;
   confConj2 = environment.confConj2;
-  confSubmissionUrl = environment.confTemplateLink;
+  confSubmissionUrl = environment.confSubmissionUrl;
   confTemplateLink = environment.confTemplateLink;
   confVenue = environment.confVenue;
 }

@@ -13,4 +13,5 @@ export class AboutComponent {
   confTel = environment.confTel;
   confTitle = environment.confTitle;
   confAbbrev = environment.confAbbrev;
+  confFB = environment.confFB;
 }

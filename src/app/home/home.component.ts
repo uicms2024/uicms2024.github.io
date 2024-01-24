@@ -14,4 +14,5 @@ export class HomeComponent {
   confConj1 = environment.confConj1;
   confConj2 = environment.confConj2;
   confDate = environment.confDate;
+  confSubmissionUrl = environment.confSubmissionUrl;
 }
