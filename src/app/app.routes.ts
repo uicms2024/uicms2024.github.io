@@ -8,6 +8,8 @@ import { FeesComponent } from './fees/fees.component';
 import { GuidelinesComponent } from './guidelines/guidelines.component';
 import { RegistrationComponent } from './registration/registration.component';
 import { PublicationComponent } from './publication/publication.component';
+import { VenueComponent } from './venue/venue.component';
+import { WorkshopComponent } from './workshop/workshop.component';
 
 export const routes: Routes = [
     { path: 'home', component: HomeComponent},
@@ -19,6 +21,8 @@ export const routes: Routes = [
     { path: 'guideline', component: GuidelinesComponent},
     { path: 'registration', component: RegistrationComponent},
     { path: 'publication', component: PublicationComponent},
+    { path: 'venue', component: VenueComponent},
+    { path: 'workshop', component: WorkshopComponent},
     { path: '**', redirectTo: 'home', pathMatch: 'full'},
 
 ];
