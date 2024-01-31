@@ -10,10 +10,12 @@ import { RegistrationComponent } from './registration/registration.component';
 import { PublicationComponent } from './publication/publication.component';
 import { VenueComponent } from './venue/venue.component';
 import { WorkshopComponent } from './workshop/workshop.component';
+import { CfrComponent } from './cfr/cfr.component';
 
 export const routes: Routes = [
     { path: 'home', component: HomeComponent},
     { path: 'call4papers', component: CfpComponent },
+    { path: 'call4reviewers', component: CfrComponent },
     { path: 'dates', component: DatesComponent },
     { path: 'committee', component: CommitteeComponent },
     { path: 'about', component: AboutComponent },

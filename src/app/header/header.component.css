@@ -1,0 +1,18 @@
+.navbar-nav > .nav-item.dropdown:nth-child(5) .dropdown-menu {
+    left: -20px; /* Adjust this value as needed */
+}
+
+/* Apply shift-left for screens wider than 576px */
+@media (min-width: 577px) {
+    .shift-left {
+        transform: translateX(-100px);
+    }
+}
+
+/* No shift for screens 576px wide or less */
+/* This is optional since the rule is not applied by default on smaller screens */
+@media (max-width: 576px) {
+    .shift-left {
+        transform: none;
+    }
+}
