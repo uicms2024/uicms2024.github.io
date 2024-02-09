@@ -1,27 +1,13 @@
-# Uicms2024GithubIo
+# UICMS2024-UiTM International Conference on Mathematical Sciences 2024
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.8.
+We are delighted to invite you to the UiTM International Conference on Mathematical Sciences 2024 (UICMS 2024). This conference is set to be a milestone event, unfolding on the 12th and 13th of October 2024.
 
-## Development server
+UICMS2024 aims to bring together a diverse group of thought leaders, innovators, and practitioners from around the world. We are focusing on the critical role of mathematics in the current age of intelligence and analytics, emphasizing the bridge between theoretical advancements and practical applications. This gathering is a unique opportunity for academics, professionals, researchers, scholars, and students to engage in a rich exchange of ideas, experiences, and expertise.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Our conference, through its expertly curated sessions and discussions, seeks to enhance collaborative efforts among academic institutions, especially between UiTM and its MoU partners, and to foster a culture of high-quality scholarship and research.
 
-## Code scaffolding
+Join us for an enriching experience that promises to expand your horizons, provide valuable insights, and offer networking opportunities with peers and experts in the field of mathematics and its applications. We look forward to your participation in making UICMS 2024 a resounding success.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Please use this link to register: [https://uicms2024.edas.info/](https://uicms2024.edas.info/)
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
