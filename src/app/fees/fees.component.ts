@@ -11,4 +11,5 @@ import { environment } from '../../environments/environment';
 })
 export class FeesComponent {
   confEmail = environment.confEmail;
+  paymentProof = environment.paymentProof;
 }

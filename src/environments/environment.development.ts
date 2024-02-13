@@ -15,5 +15,6 @@ export const environment = {
   confTel: '+60355435312',
   //confTel: '+60132244790',
   confFB: 'https://www.facebook.com/uicms/',
+  paymentProof: 'https://docs.google.com/forms/d/1nFlQl-qFKf9laWzlL_9MvXIL4nSz8iSO95VmL390bvU/edit',
 };
 
