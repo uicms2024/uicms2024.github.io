@@ -11,6 +11,7 @@ import { PublicationComponent } from './publication/publication.component';
 import { VenueComponent } from './venue/venue.component';
 import { WorkshopComponent } from './workshop/workshop.component';
 import { CfrComponent } from './cfr/cfr.component';
+import { TripComponent } from './trip/trip.component';
 
 export const routes: Routes = [
     { path: 'home', component: HomeComponent},
@@ -25,6 +26,7 @@ export const routes: Routes = [
     { path: 'publication', component: PublicationComponent},
     { path: 'venue', component: VenueComponent},
     { path: 'workshop', component: WorkshopComponent},
+    { path: 'trip', component: TripComponent},
     { path: '**', redirectTo: 'home', pathMatch: 'full'},
 
 ];
