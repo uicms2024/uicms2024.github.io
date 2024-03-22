@@ -8,6 +8,7 @@ export const environment = {
   confEmail: 'uicms2024@gmail.com',
   confSubmissionUrl: 'https://uicms2024.edas.info/',
   confTemplateLink: '/assets/UICMS2024_Full_Paper_Template.doc',
+  confTemplateLinkLaTeX: '/assets/LaTeX_Template_UICMS2024_apacite_style.zip',
   cfrLink: 'https://docs.google.com/forms/d/1v_HgxOlp-jBl7G1sb0V05AZnW3y02pVq3BbzcUpIz6I/viewform?pli=1&ts=65b0ae44&pli=1&edit_requested=true',
   confDate: '12th - 13th October 2024',
   confVenue: 'Perdana Kuala Lumpur City Centre, Kuala Lumpur',

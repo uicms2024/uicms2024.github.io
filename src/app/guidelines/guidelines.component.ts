@@ -10,6 +10,7 @@ import { Component } from '@angular/core';
 })
 export class GuidelinesComponent {
   confTemplateLink = environment.confTemplateLink;
+  confTemplateLinkLaTeX = environment.confTemplateLinkLaTeX;
   confSubmissionUrl = environment.confSubmissionUrl;
   confAbbrev = environment.confAbbrev;
 }
