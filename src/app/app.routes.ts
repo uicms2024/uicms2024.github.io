@@ -26,7 +26,7 @@ export const routes: Routes = [
     { path: 'publication', component: PublicationComponent},
     { path: 'venue', component: VenueComponent},
     { path: 'workshop', component: WorkshopComponent},
-    { path: 'trip', component: TripComponent},
+    // { path: 'trip', component: TripComponent},
     { path: '**', redirectTo: 'home', pathMatch: 'full'},
 
 ];
