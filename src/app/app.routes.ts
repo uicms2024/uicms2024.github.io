@@ -12,6 +12,7 @@ import { PublicationComponent } from './publication/publication.component';
 import { VenueComponent } from './venue/venue.component';
 import { WorkshopComponent } from './workshop/workshop.component';
 import { CfrComponent } from './cfr/cfr.component';
+import { PresentersComponent } from './presenters/presenters.component';
 import { TripComponent } from './trip/trip.component';
 
 export const routes: Routes = [
@@ -26,6 +27,7 @@ export const routes: Routes = [
     { path: 'guideline', component: GuidelinesComponent},
     { path: 'registration', component: RegistrationComponent},
     { path: 'publication', component: PublicationComponent},
+    { path: 'presenters', component: PresentersComponent},
     { path: 'venue', component: VenueComponent},
     { path: 'workshop', component: WorkshopComponent},
     // { path: 'trip', component: TripComponent},
