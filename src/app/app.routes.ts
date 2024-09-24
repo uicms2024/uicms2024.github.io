@@ -6,6 +6,7 @@ import { CommitteeComponent } from './committee/committee.component';
 import { DatesComponent } from './dates/dates.component';
 import { FeesComponent } from './fees/fees.component';
 import { TentativeComponent } from './tentative/tentative.component';
+import { ScheduleComponent } from './schedule/schedule.component';
 import { GuidelinesComponent } from './guidelines/guidelines.component';
 import { RegistrationComponent } from './registration/registration.component';
 import { PublicationComponent } from './publication/publication.component';
@@ -24,6 +25,7 @@ export const routes: Routes = [
     { path: 'about', component: AboutComponent },
     { path: 'fees', component: FeesComponent },
     { path: 'tentative', component: TentativeComponent },
+    { path: 'schedule', component: ScheduleComponent },
     { path: 'guideline', component: GuidelinesComponent},
     { path: 'registration', component: RegistrationComponent},
     { path: 'publication', component: PublicationComponent},
